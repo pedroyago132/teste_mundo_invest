@@ -20,15 +20,9 @@ Backend desenvolvido com:
 
 # 🚀 Como iniciar o projeto
 
-## 1. Clone o repositório
-
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-```
-
 ---
 
-## 2. Entre na pasta do projeto e va para a past "api"
+## 1. Entre na pasta do projeto e va para a past "api"
 
 Na pasta raiz do projeto abra a pasta api com:
 
@@ -38,7 +32,7 @@ cd api
 
 ---
 
-## 3. Crie ambiente virtual
+## 2. Crie ambiente virtual
 
 ### Windows
 
@@ -52,30 +46,12 @@ python -m venv venv
 python3 -m venv venv
 ```
 
----
 
-## 4. Ative o ambiente virtual
-
-### Windows
-
-```bash
-cd venv\Scripts\activate || python venv\Scripts\activate
-```
-
-### Linux/Mac
-
-```bash
-source venv/bin/activate
-```
-
----
-
-## 5. Instale dependências
+## 3. Instale dependências
 
 ```bash
 python pip install fastapi uvicorn
 ```
-
 ---
 
 # ▶️ Executando aplicação
