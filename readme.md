@@ -15,6 +15,7 @@ Backend desenvolvido com:
 * FastAPI
 * Uvicorn
 * SQLite
+* GraphQL
 
 ---
 
